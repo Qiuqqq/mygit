@@ -14,6 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @RequestMapping("/first")
     public String test(){
-        return "6 jenkins";
+        return "7 jenkins";
     }
 }
